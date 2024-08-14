@@ -17,7 +17,7 @@ header{
     top: 0;
     padding: 1%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     background-color: rgb(44, 188, 240);
     animation: slide-down;
@@ -151,14 +151,28 @@ span h1{
     justify-content: space-evenly;
 }
 .Smart-watch{
-    margin-left: 15px;
+    margin-left: 100px;
     margin-right: 100px;
     margin-top: 50px; 
+    padding: 40px;
     border-radius: 20px; 
-    box-shadow: 4px 5px 10px;;
+    box-shadow: 4px 5px 10px;
 }
 .Smart-watch img{
     width: 350px;
-    height: 300px;
+    height: 240px;
     margin: 10px;
 }
+
+/* footer */
+
+.footer {
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+footer{
+    margin-top: 20px;
+    background: rgb(116, 198, 228);
+    text-align: center;
+  }
