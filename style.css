@@ -239,11 +239,25 @@ footer{
             margin-left: 5px;
             margin-top: 20px;
         }
+        .Smart{
+        margin-left: 30px;
+        }
         .Smart-watch{
-            margin-left: 60px;
+            margin-left: 30px;
+        }
+        .Smart-watch img{
+            width: 250px;
+            height: 250px;
+        }
+        .laptops{
+            margin-left: 20px;
         }
         .laps{
-            margin-left: 40px;
+            margin-left: 20px;
+        }
+        .laps img{
+            width: 330px;
+            height: 250px;
         }
        
   }
