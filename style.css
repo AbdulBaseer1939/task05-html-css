@@ -209,11 +209,10 @@ footer{
     text-align: center;
   }
 
+
   @media screen and (max-width: 420px) {
     
-        header{
-            width: 100%;
-        }
+        
         header h1{
             font-size: medium
         }
@@ -222,32 +221,29 @@ footer{
         }
         .navbar{
             display: grid;
-            grid-template-columns: 47% 50%;
+            grid-template-columns: 50% 50%;
         }
         .navbar-2{
-            width: 220px;
-            padding-right: 5px;
-            /* margin-left: 55px; */
+            width: 200px;
         }
         .navbar-1{
-            /* padding-right: 30px; */
             margin-left: 2px;
         }
         span h1{
             margin-top: 10px;
         }
         .wraper{
-            margin-left: 10px;
+            margin-left: 5px;
         }
         .item{
-            margin-left: 10px;
+            margin-left: 5px;
             margin-top: 20px;
         }
         .Smart-watch{
-            margin-left: 50px;
+            margin-left: 60px;
         }
         .laps{
-            margin-left: 30px;
+            margin-left: 40px;
         }
        
   }
